@@ -274,7 +274,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :sparkling_heart: Support my projects
 
-I do web services and open-source my used projects as much as I can. I will try to reply to everyone needing help using these projects. I consumes a lot of time and hardwork. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
+I do web services and open-source my used projects as much as I can. I will try to reply to everyone needing help using these projects. It consumes a lot of time and hardwork. You can integrate and use these projects in your applications *for free*! You can even change the source code and redistribute (even resell it).
 
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
 
